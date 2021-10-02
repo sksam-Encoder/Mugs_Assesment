@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111318256749",
+    "project_id": "mugsassesment",
+    "storage_bucket": "mugsassesment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111318256749:android:9a577deff635b698770364",
+        "android_client_info": {
+          "package_name": "com.example.mugsassesment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111318256749-do5ehi71kbjdma4rfdunq9m36953cvae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7XQnslhNod9OFmsLnwJv2GnUx_J4UJrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111318256749-do5ehi71kbjdma4rfdunq9m36953cvae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
